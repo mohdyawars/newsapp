@@ -4,25 +4,25 @@ NewsApp is a React-based application that fetches and displays the latest news a
 
 ## Features
 
-- Fetches top headlines using the News API.
-- Displays news articles with titles and descriptions.
-- Pagination to navigate through pages of news articles.
-- Responsive and easy-to-use interface.
+-   Fetches top headlines using the News API.
+-   Displays news articles with titles and descriptions.
+-   Pagination to navigate through pages of news articles.
+-   Responsive and easy-to-use interface.
 
 ## Technologies Used
 
-- **React**: For building the user interface.
-- **News API**: To fetch real-time news data.
-- **JavaScript**: For application logic.
-- **Bootstrap**: For styling the components.
+-   **React**: For building the user interface.
+-   **News API**: To fetch real-time news data.
+-   **JavaScript**: For application logic.
+-   **Bootstrap**: For styling the components.
 
 ## Prerequisites
 
 To run this project locally, ensure you have the following installed:
 
-- Node.js (version 14 or above)
-- npm or yarn
-- A News API account to get an API key ([Sign up here](https://newsapi.org/)).
+-   Node.js (version 14 or above)
+-   npm or yarn
+-   A News API account to get an API key ([Sign up here](https://newsapi.org/)).
 
 ## Getting Started
 
@@ -70,10 +70,9 @@ src/
 
 ## Future Enhancements
 
-- Add filters to view news by category (e.g., Technology, Sports).
-- Add a search bar for custom queries.
-- Implement dark mode for better user experience.
+-   Add a search bar for custom queries.
+-   Implement dark mode for better user experience.
 
 ## Acknowledgments
 
-- [News API](https://newsapi.org/) for providing real-time news data.
+-   [News API](https://newsapi.org/) for providing real-time news data.
